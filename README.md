@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Redxred
 - 👀 I’m interested in ...codeing
-- 🌱 I’m currently learning ...pythone
+- 🌱 I’m currently learning ...python/flutter/cyber security/blockchain
 - 💞️ I’m looking to collaborate on ...google
 - 📫 How to reach me ...redxpritam@gmail.com
 
